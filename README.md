@@ -1,42 +1,45 @@
 <p align="center">
-    <a href="https://blogbook-blog.herokuapp.com/">
-        <img src="https://raw.githubusercontent.com/chaitak-gorai/Project-Template-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.sv" alt="[Project Logo]" width="30%"> 
+    <a href="https://github.com/acm-iem">
+        <img src="https://github.com/acm-iem/Readme-template/blob/main/Logos/acm-iem.png" alt="[Project Logo]" width="30%"> 
     </a>
 </p> 
 
 ### [Project Title]
 Hello,
-Welcome to.. {PROJECT BASIC INTRODUCTION]
-[PROJECT DOMAIN]
-### [PREREQUISITE KNOWLEDGE]
-* List down the technical aspects like HTML, NodeJs, Django
+Welcome to.. {BASIC PROJECT INTRODUCTION]
+[PROJECT DOMAIN, TECH STACK]
+### [PREREQUISITE KNOWLEDGE AND DEPENDANCIES]
+* List down the technical aspects like HTML, NodeJs, Django and basic dependancies of project
 
 
-
-# Hacktober Fest Accepted 
+# DIVERSION 2k23
+## This project is part of Diversion 2k23
 
 
 <p align="center">
-    <a href="https://hacktoberfest.digitalocean.com/">
-        <img src="https://raw.githubusercontent.com/chaitak-gorai/Project-Template-Hacktoberfest22/main/Hfest-Logo-2-Color-Manga.svg" width="30%">
+    <a href="https://diversion.tech/">
+        <img src="https://github.com/acm-iem/Readme-template/blob/main/Logos/Diversion%20Full%20Logo%20White.png" width="30%">
     </a>
 </p>
 
-<h1 align="center"> Hacktoberfest 2022 🎉</h1>
+<h1 align="center"> DIVERSION 2k23 🎉</h1>
 
 <div align="center">
    
-   [![GitHub issues](https://img.shields.io/github/issues/chaitak-gorai/Project-Template-Hacktoberfest22?color=pink&logo=github)](https://github.com/acm-iem/Project-Template-Hacktoberfest22/issues)        [![GitHub PRs](https://img.shields.io/github/issues-pr/chaitak-gorai/Project-Template-Hacktoberfest22?style=social&logo=github)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/pulls)                    [![GitHub forks](https://img.shields.io/github/forks/chaitak-gorai/Project-Template-Hacktoberfest22?logo=git)](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/network)
+   [![GitHub issues](https://img.shields.io/github/issues/chaitak-gorai/Project-Template-Hacktoberfest22?color=pink&logo=github)](https://github.com/acm-iem/Readme-template/issues)        [![GitHub PRs](https://img.shields.io/github/issues-pr/chaitak-gorai/Project-Template-Hacktoberfest22?style=social&logo=github)](https://github.com/acm-iem/Readme-template/pulls)                    [![GitHub forks](https://img.shields.io/github/forks/chaitak-gorai/Project-Template-Hacktoberfest22?logo=git)](https://github.com/acm-iem/Readme-template/network)
    
-   <a href="https://github.com/chaitak-gorai/blogbook/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348"></a>
-<a href="https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348" alt="License Badge"/></a>
+   <a href="https://github.com/acm-iem/Readme-template/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348"></a>
+<a href="https://github.com/acm-iem/Readme-template/blob/master/LICENSE"><img src="https://img.shields.io/github/license/chaitak-gorai/Project-Template-Hacktoberfest22?color=2b9348" alt="License Badge"/></a>
 </div>
 
-### 🗣 Hacktoberfest encourages participation in the open source community, which grows bigger every year. Complete the 2022 challenge and earn a limited edition T-shirt.
+### 🗣 DIVERSION 2k23 encourages participation in the open source community, which grows bigger every year. Complete the challenge and win amazing rewards.
 
-📢 **Register [here](https://hacktoberfest.digitalocean.com) for Hacktoberfest and make four pull requests (PRs) between October 1st-31st to grab free SWAGS 🔥.**
+📢 **Register [here](https://diversion.tech/) for DIVERSION 2k23 and start contributing to the projects.**
 
-## Hactoberfest Contribution Rules
+## Features to be developed during the event.
+   [Add Feature list]
+   
+## DIVERSION 2k23 Contribution Rules
 - Pull requests can be submitted to any opted-in repository on GitHub or GitLab.
 - The pull request must contain commits you made yourself.
 - If a maintainer reports your pull request as spam, it will not be counted toward your participation in Hacktoberfest.
@@ -46,8 +49,9 @@ Welcome to.. {PROJECT BASIC INTRODUCTION]
 ---
 
 # Contribute
-   ### Do Read - [Code of Conduct](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/main/CODE_OF_CONDUCT.md)
-   ### Jump to - [Contribute.md](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/main/CONTRIBUTE.md) (updated)
+   ## There are DIVERSION 2k23 contributor guidelines as well as individual project guidelines. 
+   ### Do Read - [Code of Conduct](https://github.com/acm-iem/Readme-template/blob/main/CODE_OF_CONDUCT.md)
+   ### Jump to - [DIVERSION 2k23 guidelines](https://docs.google.com/document/d/1D7bn0rLv1dP6DAmEnsI8qBLjQrWTdhp0e5ZVy8OFHjc/edit?usp=sharing) (updated)
 Why not start your open source journey by merging some codes here. It will be very great if you review the code and  find some bugs and issues.
 
 ## Steps for a successful commit :zap:
@@ -61,13 +65,14 @@ Why not start your open source journey by merging some codes here. It will be ve
 
  ### Ways to Contribute 
   * Find a bug by running the project locally
-  * Solve the [issues](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/issues) which are already set up
+  * Solve the [issues](https://github.com/acm-iem/Readme-template/issues) which are already set up
   * Sugget some change or create your own isssue
   *  Create documentation like site structure, how to write a blog,etc
   *  Indent/Beautify/Modify codes.
 
 ### List of Contributors
-   Jump to [Contributors.md](https://github.com/chaitak-gorai/Project-Template-Hacktoberfest22/blob/main/contributors.md)
+   After a successful PR merge during the event add the contributor name to this list.
+   
    
 ### Live project link
 * Heroku - [Project Link]
